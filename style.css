@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+h1{
+    border-left: solid 5px greenyellow;
+    padding-left: 10px;
+}
+
+img{
+    width: 100px;
+}
